@@ -1,8 +1,9 @@
 {
-    "name": "brilliant-editor--dark-",
+    "name": "brilliant-editor--dark-01",
     "displayName": "Brilliant Editor (Dark)",
     "description": "Enjoy brilliant syntax",
     "version": "0.0.1",
+    "publisher": "CarlosMCA",
     "engines": {
         "vscode": "^1.55.0"
     },
